@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nirvan1234.github.io/CRUD-app/static/css/main.77ceabd5.css",
+    "main.js": "/nirvan1234.github.io/CRUD-app/static/js/main.32695295.js",
+    "static/js/787.63e47474.chunk.js": "/nirvan1234.github.io/CRUD-app/static/js/787.63e47474.chunk.js",
+    "index.html": "/nirvan1234.github.io/CRUD-app/index.html",
+    "main.77ceabd5.css.map": "/nirvan1234.github.io/CRUD-app/static/css/main.77ceabd5.css.map",
+    "main.32695295.js.map": "/nirvan1234.github.io/CRUD-app/static/js/main.32695295.js.map",
+    "787.63e47474.chunk.js.map": "/nirvan1234.github.io/CRUD-app/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77ceabd5.css",
+    "static/js/main.32695295.js"
+  ]
+}
